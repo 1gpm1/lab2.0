@@ -1,0 +1,3 @@
+﻿  lab2.1.cpp
+D:\АП лаби\lab2.1\lab2.1.cpp(17,10): warning C4566: character represented by universal-character-name '\u03B1' cannot be represented in the current code page (1251)
+  lab2.1.vcxproj -> D:\АП лаби\lab2.1\Debug\lab2.1.exe
